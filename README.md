@@ -6,30 +6,23 @@ Project aims to create app using Sass with React
  find-the-number-game(folder)
 |
 |----readme.md                 
-|----css
-        |----main.css
-        |----main.css.map
-|----img
-|----scss
-        |----abstracts
-              |----mixins.scss
-              |----variables.scss
-        |----base
-              |----_reset.scss             
+|----public
+        |----index.html
+|----src 
         |----components
-              |----_footer.scss
-              |----_nav.scss
-              |----_responsive.scss
-        |----pages
-              |----_about.scss
-              |----_contact.scss
-              |----_home.scss
-              |----_projects.scss
-        |----main..scss
-|----about.html
-|----contact.html
-|----index.html
-|----projects.html
+              |----Card.jsx
+              |----Footer.jsx
+              |----Header.jsx
+        |----scss
+              |----_reser.scss
+              |----_variables.scss
+              |----app.scss
+              |----card.module.scss
+              |----footer.module.scss
+              |----header.module.scss
+        |----App.js
+        |----data.js
+        |----index.js
 
 ```
 ## Project-gif
