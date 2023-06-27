@@ -3,7 +3,6 @@
 Project aims to create app using Sass with React
 ## Project Skeleton
 ```
- find-the-number-game(folder)
 |
 |----readme.md                 
 |----public
