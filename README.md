@@ -1,3 +1,43 @@
+# Sass-Project
+## Description
+Project aims to create app using Sass with React
+## Project Skeleton
+```
+ find-the-number-game(folder)
+|
+|----readme.md                 
+|----css
+        |----main.css
+        |----main.css.map
+|----img
+|----scss
+        |----abstracts
+              |----mixins.scss
+              |----variables.scss
+        |----base
+              |----_reset.scss             
+        |----components
+              |----_footer.scss
+              |----_nav.scss
+              |----_responsive.scss
+        |----pages
+              |----_about.scss
+              |----_contact.scss
+              |----_home.scss
+              |----_projects.scss
+        |----main..scss
+|----about.html
+|----contact.html
+|----index.html
+|----projects.html
+
+```
+## Project-gif
+![JavaScript-project](https://raw.githubusercontent.com/achieve-software/achieve-software/main/img/r5sassgifl.gif)
+## Project-link
+https://jolly-rugelach-187d52.netlify.app/
+### At the end of the project, following topics are to be covered;
+-React
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
